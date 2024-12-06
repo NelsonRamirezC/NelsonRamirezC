@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### 👨🏻‍💻 &nbsp;Acerca de mí
+
+✅ &nbsp;Me gustar investigar sobre nuevas tecnologías
+
+
+
 <!--
 **NelsonRamirezC/NelsonRamirezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
