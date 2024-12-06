@@ -10,6 +10,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
+<img height="150px" src="https://res.cloudinary.com/dhflwi9gi/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1733527022/imagen_readme1_rslycq.svg"/>
+
 <hr/>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -20,6 +22,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NelsonRamirezC&layout=compact&langs_count=8&theme=cobalt"/>
 </a>
 </p>
+
+### 🔥 Streak Stats
+
+![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=NelsonRamirezC&theme=tokyonight)
 
 
 <!--
