@@ -28,6 +28,16 @@
 ![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=NelsonRamirezC&theme=tokyonight)
 
 
+### 🔥 Mis proyectos
+
+<a href="https://github.com/NelsonRamirezC/repaso_entrega">
+<p>Proyecto N° 1.</p>
+<img src="https://res.cloudinary.com/dhflwi9gi/image/upload/v1729734485/cld-sample-2.jpg" alt="Proyecto 1"/>
+</a>
+
+
+
+
 <!--
 **NelsonRamirezC/NelsonRamirezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
